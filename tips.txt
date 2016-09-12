@@ -1,0 +1,9 @@
+gcc -c main.c 
+gcc -c fun.c 
+cat fun.o | xxd
+gcc -o test main.o fun.o
+./test 
+echo $?
+objdump -d fun.o
+cat fun.o | xxd | less
+file fun.o
