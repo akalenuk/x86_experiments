@@ -1,0 +1,14 @@
+ INFO: nweb starting:8080:2804
+ INFO: request:GET / HTTP/1.1**Host: localhost:8080**User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8**Accept-Language: en-US,en;q=0.5**Accept-Encoding: gzip, deflate**Connection: keep-alive**Upgrade-Insecure-Requests: 1****:1
+ INFO: SEND:index.html:1
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: localhost:8080**User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0**Accept: */***Accept-Language: en-US,en;q=0.5**Accept-Encoding: gzip, deflate**Referer: http://localhost:8080/**Connection: keep-alive****:2
+ INFO: SEND:nigel.jpg:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:8080**User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0**Accept: */***Accept-Language: en-US,en;q=0.5**Accept-Encoding: gzip, deflate**Connection: keep-alive****:3
+SORRY: file extension type not supported:GET /favicon.ico
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: localhost:8080**User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8**Accept-Language: en-US,en;q=0.5**Accept-Encoding: gzip, deflate**Connection: keep-alive****:4
+SORRY: file extension type not supported:GET /favicon.ico
+ INFO: nweb starting:8080:2878
+ INFO: request:GET / HTTP/1.1**Host: localhost:8080**User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8**Accept-Language: en-US,en;q=0.5**Accept-Encoding: gzip, deflate**Connection: keep-alive**Upgrade-Insecure-Requests: 1****:1
+ INFO: SEND:index.html:1
+ INFO: request:GET /nigel.jpg HTTP/1.1**Host: localhost:8080**User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0**Accept: */***Accept-Language: en-US,en;q=0.5**Accept-Encoding: gzip, deflate**Referer: http://localhost:8080/**Connection: keep-alive****:2
+ INFO: SEND:nigel.jpg:2
